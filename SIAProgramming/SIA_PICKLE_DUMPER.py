@@ -1,7 +1,7 @@
 import pickle
 
 #Dump data in pickle files of S.I.R.
-#Created by ThinkCreate
+#Created by GreenGames
 
 #Place name of file in between quote marks
 FILE="topics.pkl"

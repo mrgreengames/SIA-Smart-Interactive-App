@@ -502,6 +502,8 @@ def email_sender(n, model_int, dec, functions, save_file_name, data, password):
 def siahelp(n, model_int, dec, functions, save_file_name, data, password):
     p('Welcome to SIA Help')
     sleep(.999)
+    p("I am Shelly")
+    sleep(.999)
     p('I will answer any questions you have and will ensure that you know EVERYthing.')
     sleep(.999)
     p('Do you need help with a function(s)(1), or do you have a question(2)?')

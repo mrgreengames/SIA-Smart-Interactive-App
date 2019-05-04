@@ -71,8 +71,6 @@ try:
     from math import sqrt
     from tkinter.filedialog import askopenfilename
     from tkinter import *
-except ImportError:
-    protocol_check(1)
 except ModuleNotFoundError:
     protocol_check(4)
 

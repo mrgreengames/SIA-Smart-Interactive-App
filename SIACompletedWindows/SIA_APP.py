@@ -64,18 +64,6 @@ except ModuleNotFoundError:
     protocol_check(4)
 
 # From Imports
-try:
-    from time import sleep
-    from random import randint
-    from email.mime.text import MIMEText
-    from email.mime.multipart import MIMEMultipart
-    from email.mime.base import MIMEBase
-    from email import encoders
-    from math import sqrt
-    from tkinter.filedialog import askopenfilename
-    from tkinter import *
-except ModuleNotFoundError:
-    protocol_check(4)
 from time import sleep
 from random import randint
 from email.mime.text import MIMEText

@@ -7,7 +7,7 @@ Unfortunately, SIA can only work with Mac and Windows. GreenGames will try their
 
 # Download
 Windows download:
-https://www.dropbox.com/sh/j2ir0qga0i2lan3/AABblRwj7b8cKU0KoCgNU5Zia?dl=0
+https://bit.ly/2E4EAfW
 
 Mac OS X download:
 https://www.dropbox.com/sh/zd5ipqihcsmc7g9/AAC0dhbTeFew1K58Hitj_vkBa?dl=0

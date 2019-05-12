@@ -10,4 +10,4 @@ Windows download:
 https://bit.ly/2E4EAfW
 
 Mac OS X download:
-https://www.dropbox.com/sh/zd5ipqihcsmc7g9/AAC0dhbTeFew1K58Hitj_vkBa?dl=0
+https://bit.ly/2VjTapE

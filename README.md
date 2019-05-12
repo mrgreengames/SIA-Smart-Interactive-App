@@ -5,3 +5,9 @@ The Smart Interactive App is used to make the user's life much more easier. With
 # Compatibility
 Unfortunately, SIA can only work with Mac and Windows. GreenGames will try their hardest to find a way to make it more compatible with different platforms. This may take a while if you consider having to recode everything to make fit with the platform
 
+# Download
+Windows download:
+https://www.dropbox.com/sh/j2ir0qga0i2lan3/AABblRwj7b8cKU0KoCgNU5Zia?dl=0
+
+Mac OS X download:
+https://www.dropbox.com/sh/zd5ipqihcsmc7g9/AAC0dhbTeFew1K58Hitj_vkBa?dl=0

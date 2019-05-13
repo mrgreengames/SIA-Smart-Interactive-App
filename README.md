@@ -10,7 +10,7 @@ Python 3.6 is needed to run SIA.
 Python 3.6: https://www.python.org/downloads/release/python-368/
 
 Windows download:
-https://bit.ly/2E4EAfW
+https://bit.ly/2JC6YcW
 
 Mac OS X download:
-https://bit.ly/2VjTapE
+https://bit.ly/2Jlfjm2

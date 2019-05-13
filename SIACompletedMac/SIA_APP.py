@@ -308,8 +308,8 @@ def cp(n, model_int, dec, functions, save_file_name, data, password):
         new_p2 = input("Repeat the new password: ")
         if new_p == new_p2:
             new_p = encrypt_msg(new_p, ENCRYPTION_DICT)
-            if os.path.exists('password.pickle'):
-                with open('password.pickle', 'wb') as file_object:
+            if os.path.exists('password.pkl'):
+                with open('password.pkl', 'wb') as file_object:
                     pickle.dump(new_p, file_object)
                 main_model(n, model_int, dec, functions, save_file_name, data, password)
             else:

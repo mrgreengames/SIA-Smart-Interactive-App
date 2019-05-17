@@ -955,5 +955,5 @@ if __name__ == "__main__":
     list_of_dec = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j']
     files = []
     t = 0
-    modelInt = "29.6"
+    modelInt = "29.8"
     enter(modelInt)

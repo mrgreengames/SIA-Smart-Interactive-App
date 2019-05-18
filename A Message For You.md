@@ -23,8 +23,7 @@ In Model-24 SIA was introduced to Security Protocols. They were called whenever 
 ols like one for when the user modify the code
 
 Revamp the code explained.
-I want to make it easier to read the code. I want to pack everything into one function but this will remove lots of original code but who 
-cares?
+I want to make it easier to read the code. I want to pack everything into one function but this will remove lots of original code but who cares?
 
 Credits explained.
 Really?
@@ -34,3 +33,9 @@ Sergent Lime is the new Head of Development for SIA
 
 
 # OTHER STUFF
+COMPATIBILITY
+Regarding Windows compatibility, Mr Green unfortunately glossed over the app launcher function.He didn't see Windows' emptiness of a programming and only now have I discovered the flaw during atesting of Model 30. Launching an exe file in Windows is much more harder to program than launching an app in Mac. Launching an exe for Windows via SIA will not be added anytime soon.
+
+Mobile! Mobile will not be covered
+Linux! Linux will not be covered
+Anything else! Anything else will not be covered

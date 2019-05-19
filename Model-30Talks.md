@@ -28,7 +28,7 @@ I want to make it easier to read the code. I want to pack everything into one fu
 Credits explained.
 Really?
 
-Sergent Lime
+Sergent Lime.
 Sergent Lime is the new Head of Development for SIA
 
 

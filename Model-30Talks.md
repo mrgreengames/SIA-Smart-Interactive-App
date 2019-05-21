@@ -1,4 +1,4 @@
-Hello! Sergent Lime is here to talk? What is the correct term to use instead of talk. Anywhere Model 30 is right around the corner and 
+Hello! Sergeant Lime is here to talk? What is the correct term to use instead of talk. Anywhere Model 30 is right around the corner and 
 I am here to tell you about new updates and other stuff.
 
 # NEW STUFF

@@ -9,7 +9,7 @@ A way to record SIA's workings
 Add more security protocols
 Revamping the code to make it more easier for developers to track everything
 Credits!
-and also Sergent Lime is the new Head of Development
+and also Sergeant Lime is the new Head of Development
 
 Converting decimals, percentages, and fractions into eachother explained.
 I, Sergent Lime, wish to add more math functions slowly with every model-add. For this model-add I implemented converting decimals, percen-
@@ -28,8 +28,8 @@ I want to make it easier to read the code. I want to pack everything into one fu
 Credits explained.
 Really?
 
-Sergent Lime.
-Sergent Lime is the new Head of Development for SIA
+Sergeant Lime.
+Sergeant Lime is the new Head of Development for SIA
 
 
 # OTHER STUFF

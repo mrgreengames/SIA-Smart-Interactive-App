@@ -15,9 +15,9 @@ Please pick a vulnerability
 
 a. Password has been compromised
 
-b. Encrypted files has been decrypted
+b. Encrypted files have been decrypted
 
-c. Protocols break
+c. Protocols are not functioning correctly
 
 1. Go to issues
 2. Go to milestones

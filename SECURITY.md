@@ -5,7 +5,7 @@
 | Model   |      Supported     |
 | ------- | ------------------ |
 | 40.x    | :white_check_mark: |
-| 30.x    | :white_check_mart: |
+| 30.x    | :white_check_mark: |
 | 20.x    | :x:                |
 | 10.x    | :x:                |
 

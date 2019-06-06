@@ -9,7 +9,7 @@ Python 3.6: https://www.python.org/downloads/release/python-368/
 Python 3.7: https://www.python.org/downloads/release/python-373/
 
 Windows download:
-https://bit.ly/2WvhTvZ
+https://bit.ly/2JYMRXr
 
 Mac OS X download:
-https://bit.ly/2QsbNa4
+https://bit.ly/2MGML8S

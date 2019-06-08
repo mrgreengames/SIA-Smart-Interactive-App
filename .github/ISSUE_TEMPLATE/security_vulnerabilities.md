@@ -2,7 +2,7 @@
 name: Security Vulnerability
 about: Report security vulnerabilities
 title: ''
-labels: ''
+labels: 'security vulnerability'
 assignees: ''
 
 ---

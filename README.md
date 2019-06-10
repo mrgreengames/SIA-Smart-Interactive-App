@@ -7,7 +7,7 @@ The Smart Interactive App is used to make the user's life much more easier. With
 Python 3.6: https://www.python.org/downloads/release/python-368/
 
 Windows download:
-https://bit.ly/2JYMRXr
+https://bit.ly/2K7JZYh
 
 Mac OS X download:
-https://bit.ly/2MGML8S
+https://bit.ly/2WuSBPg

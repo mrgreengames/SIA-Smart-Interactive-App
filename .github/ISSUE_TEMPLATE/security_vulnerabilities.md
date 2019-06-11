@@ -3,7 +3,7 @@ name: Security Vulnerability
 about: Report security vulnerabilities
 title: ''
 labels: security vulnerability
-assignees: ''
+assignees: GreenGames, SergeantLime
 
 ---
 

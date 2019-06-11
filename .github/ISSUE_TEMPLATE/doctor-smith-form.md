@@ -1,15 +1,16 @@
 ---
-name: Security Vulnerability
-about: Report security vulnerabilities
+name: Doctor Smith Form
+about: A form given by Doctor Smith. Usually about broken protocols.
 title: ''
 labels: security vulnerability
-assignees: ''
+assignees: GreenGames, SergeantLime
 
 ---
 
+**Who sent you**
+Doctor Smith
+
 **Choose a vulnerability**
-1. Password has been compromised
-2. Encrypted files has been decrypted
 3. Protocols break
 
 **How did it happen**
@@ -22,6 +23,8 @@ If applicable, add screenshots to help explain your problem.
  - OS: [e.g. iOS]
  - Version [e.g. 22]
 
+**A diagnostic report from Doctor Smith**
+Attach the report file
 
 **Additional context**
 Add any other context about the problem here.

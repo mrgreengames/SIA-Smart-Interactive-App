@@ -1,0 +1,9 @@
+Instructions for Smart Interactive App.
+
+Congratulations! Now you've got your very own Smart Interactive App to make your life easier! That is basically our motto "Makes the users' life easier".
+Now you need to know how to run SIA. You obviously downloaded the correct version for your operating system and also downloaded Python 3.6 which is compulsory!
+First of all right click start.command/start.cmd and open it with your terminal. It should get started right away! It will greet you and tell you what Model of SIA
+you are using. If this your first time using SIA it will ask: "Is this your first time using SIA? yes or no" Reply with yes and it will
+ask you for a password you want to use, make sure it is easy to remember but to guess! Then type in an email you want to use. It will return you
+to the password section and it will ask you for a password. Input the one you wanted to use before. Then it will ask how to address you. You can put anything ridiculous
+like, "Sergeant Lime." What a ridiculous name. You're in! Go explore the many things you can do on SIA!

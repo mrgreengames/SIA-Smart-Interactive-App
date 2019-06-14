@@ -821,10 +821,11 @@ def w(n, model_int,  functions, save_file_name, data, password, email, extension
         wr = input("What do you want to write? ")
         text = ('{} {} {}: Opening the save file'.format(datetime.datetime.hour, datetime.datetime.minute, datetime.datetime.second))
         logging.info(text)
-        with open(save_file_name, 'wb') as file_object:
+        with open(save_file_name, 'w') as file_object:
             text = ('{} {} {}: Dumping the user\'s respond into the save file'.format(datetime.datetime.hour, datetime.datetime.minute, datetime.datetime.second))
             logging.info(text)
-            pickle.dump(wr, file_object)
+            file_object.write(wr)
+        file_object.close()
         text = ('{} {} {}: Returning the user to the main model'.format(datetime.datetime.hour, datetime.datetime.minute, datetime.datetime.second))
         logging.info(text)
         main_model(n, model_int,  functions, save_file_name, data, password, email, extensions)
@@ -843,10 +844,11 @@ def r(n, model_int,  functions, save_file_name, data, password, email, extension
         logging.info(text)
         text = ('{} {} {}: Opening the save file'.format(datetime.datetime.hour, datetime.datetime.minute, datetime.datetime.second))
         logging.info(text)
-        with open(save_file_name, 'rb') as file_object:
+        with open(save_file_name, 'r') as file_object:
             text = ('{} {} {}: Printing the contents of the save file.'.format(datetime.datetime.hour, datetime.datetime.minute, datetime.datetime.second))
             logging.info(text)
-            p(pickle.load(file_object))
+            print(file_object.read())
+        file_object.close()
         text = ('{} {} {}: Sending the user back to the main model'.format(datetime.datetime.hour, datetime.datetime.minute, datetime.datetime.second))
         logging.info(text)
         main_model(n, model_int,  functions, save_file_name, data, password, email, extensions)
@@ -2686,9 +2688,9 @@ def open_pickle_files(model_int):
     text = ('{} {} {}: Loading data out of functions.pkl'.format(datetime.datetime.hour, datetime.datetime.minute, datetime.datetime.second))
     logging.info(text)
     functions = pickle.load(file_object)
-    text = ('{} {} {}: Naming the save file name to writing.pkl'.format(datetime.datetime.hour, datetime.datetime.minute, datetime.datetime.second))
+    text = ('{} {} {}: Naming the save file name to writing.txt'.format(datetime.datetime.hour, datetime.datetime.minute, datetime.datetime.second))
     logging.info(text)
-    save_file_name = "writing.pkl"
+    save_file_name = "writing.txt"
     text = ('{} {} {}: Data pile is located at data-pile.pkl'.format(datetime.datetime.hour, datetime.datetime.minute, datetime.datetime.second))
     logging.info(text)
     data = 'data-pile.pkl'
@@ -2780,7 +2782,7 @@ if __name__ == "__main__":
             logging.warning(text)
             pass
     OVERIDEPASSWORD: str = 'jodobbkfp7tbpljb'
-    modelInt = "50"
+    modelInt = "53"
     text = '{} {} {}: Going to open pickle files now!'.format(datetime.datetime.hour, datetime.datetime.minute, datetime.datetime.second)
     logging.info(text)
     modelInt = {'model_int': modelInt}
